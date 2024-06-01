@@ -4,6 +4,10 @@ novel-lucky.com###bottom_center_ads_1
 novel-lucky.com###advanced_floating_content_27864
 novel-lucky.com###advanced_floating_content_27863
 novel-lucky.com##.custom-html-widget.textwidget
+novel-lucky.com###ads_01
+novel-lucky.com###ads_02
+novel-lucky.com###ads_03
+novel-lucky.com###ads_04
 
 ! 2022-06-24 https://www.xn--72c5afc3e6a4acd3tpa.com
 www.xn--72c5afc3e6a4acd3tpa.com##.section-sponser
