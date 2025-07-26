@@ -1,1 +1,18 @@
+! Jul 26, 2025 https://manga1688.com
+manga1688.com##.kln
+manga1688.com##center
+manga1688.com##.w-bnn-bottom.wbnn
+manga1688.com##.r.slider-ads
+manga1688.com##.l.slider-ads
+
+! Jul 26, 2025 https://novel-lucky.com
+novel-lucky.com##.text-center > .row
+novel-lucky.com##.justify-content-center.container
+novel-lucky.com###ads_02
+novel-lucky.com###ads_03
+novel-lucky.com###ads_04
+novel-lucky.com##.text-center.col-12
+
+! Jul 26, 2025 https://manghaha.com
+manghaha.com##.mb-3.text-center.container-fluid
 
